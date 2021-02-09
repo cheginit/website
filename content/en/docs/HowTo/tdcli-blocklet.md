@@ -9,8 +9,6 @@ description: >
 
 Regolith includes a status bar blocklet for accessing `td-cli` directly from the bar. It can be installed as follows:
 
-Regolith includes blocklet for accessing `td-cli` directly from the status bar which can be installed as follows:
-
 ```bash
 sudo apt install i3xrocks-todo
 ```
